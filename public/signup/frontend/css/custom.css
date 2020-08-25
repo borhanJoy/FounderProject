@@ -1,0 +1,17 @@
+/*Developed By Ruhul Amin*/
+
+.active a p{
+    color: #6059f6;
+}
+
+.hover_color:hover{
+    color: #FA7070!important;
+}
+.post-navigation{
+    margin: 0px!important;
+}
+.post-navigation li{
+    height: 30px!important;
+    width: 30px!important;
+  line-height: 30px!important;
+}
